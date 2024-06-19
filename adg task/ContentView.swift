@@ -19,7 +19,6 @@ struct ContentView: View {
             Image("background-plain")
                 .resizable()
                 .ignoresSafeArea()
-            
             VStack{
                 Spacer()
                 Image("logo")
